@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="ACSPIXMT.xsl" ?>
+
+<IMPORT>
+<ACSPIX Type="" SN="" Ver="3.05.01"/>
+<DEVICE  Name="Aviva C" SN=""  ModelNum="" Dt="2018-07-29" Tm="23:50" BGUnit="mg/dL" Hyper="250" Hypo="70" CarbUnit="KE" InsulinIncrement="0.1">
+<BOLUS_ADVICE Enabled="1">
+<ADVICE_OPTIONS ActingTime="04:00" OffsetTime="01:00" MealRise="50" SnackSize="0"/>
+<HEALTH_EVENTS Exercise1="-25" Exercise2="0" Stress="0" Illness="15" Premenstrual="0"/>
+<TIMEBLOCKS>
+<TIMEBLOCK StartTime="00:00" EndTime="23:59"
+ LowerLimit="80" UpperLimit="130"
+ CarbRatioInsulin="1.5" CarbRatioCarb="10"
+ InsulinSensitivityInsulin="1.0" InsulinSensitivityBG="30"
+/>
+</TIMEBLOCKS>
+</BOLUS_ADVICE>
+<DATE_REMINDERS>
+<DATE_REMINDER Type="0" Enabled="0" Dt="2008-01-01"/>
+<DATE_REMINDER Type="1" Enabled="0" Dt="2008-01-01"/>
+</DATE_REMINDERS>
+<TIME_REMINDERS>
+</TIME_REMINDERS>
+<BG_REMINDERS>
+<BG_REMINDER Type="0" Enabled="1" BgThreshold="250" Duration="02:00"/>
+<BG_REMINDER Type="1" Enabled="1" BgThreshold="70" Duration="00:15"/>
+<BG_REMINDER Type="2" Enabled="0"/>
+</BG_REMINDERS>
+<INFUSION_SET_REMINDER Enabled="0" IntervalDays="3"/>
+</DEVICE>
+<RECENTREC Dt="2017-09-10" Tm="02:24"/>
+<BGDATA>
+<BG Val="141" Dt="2017-09-10" Tm="02:24" D="1"/>
+<BG Val="140" Dt="2017-09-09" Tm="19:35" D="1"/>
+<BG Val="136" Dt="2017-09-09" Tm="10:25" D="1"/>
+<BG Val="155" Dt="2017-09-08" Tm="23:56" D="1"/>
+<BG Val="195" Dt="2017-09-08" Tm="23:56" D="1"/>
+<BG Val="134" Dt="2017-09-08" Tm="20:19" D="1"/>
+<BG Val="176" Dt="2017-09-08" Tm="17:51" D="1"/>
+<BG Val="117" Dt="2017-09-08" Tm="11:59" D="1"/>
+<BG Val="95" Dt="2017-09-08" Tm="09:06" D="1"/>
+<BG Val="114" Dt="2017-07-26" Tm="00:21" D="1"/>
+<BG Val="60" Dt="2017-07-25" Tm="19:12" D="1"/>
+<BG Val="272" Dt="2017-07-25" Tm="13:33" D="1"/>
+<BG Val="158" Dt="2017-07-25" Tm="08:31" D="1"/>
+<BG Val="190" Dt="2017-07-25" Tm="06:44" D="1"/>
+<BG Val="154" Dt="2017-07-01" Tm="14:12" D="1"/>
+<BG Val="60" Dt="2017-06-26" Tm="06:40" D="1"/>
+<BG Val="122" Dt="2017-06-26" Tm="00:43" D="1"/>
+<BG Val="144" Dt="2017-06-25" Tm="23:31" D="1"/>
+<BG Val="205" Dt="2017-06-25" Tm="19:29" D="1"/>
+<BG Val="110" Dt="2017-06-25" Tm="11:30" D="1"/>
+<BG Val="99" Dt="2017-06-25" Tm="10:32" D="1"/>
+<BG Val="262" Dt="2017-06-25" Tm="01:29" D="1"/>
+<BG Val="233" Dt="2017-06-25" Tm="00:16" D="1"/>
+<BG Val="328" Dt="2017-06-24" Tm="22:10" D="1"/>
+<BG Val="176" Dt="2017-06-24" Tm="18:06" D="1"/>
+<BG Val="84" Dt="2017-06-24" Tm="13:03" D="1"/>
+<BG Val="96" Dt="2017-06-24" Tm="13:02" D="1"/>
+<BG Val="98" Dt="2017-06-24" Tm="07:48" D="1"/>
+<BG Val="126" Dt="2017-06-24" Tm="01:18" D="1"/>
+<BG Val="182" Dt="2017-06-23" Tm="22:17" D="1"/>
+<BG Val="206" Dt="2017-06-23" Tm="20:25" D="1"/>
+<BG Val="307" Dt="2017-06-23" Tm="18:25" D="1"/>
+<BG Val="83" Dt="2017-06-16" Tm="16:21" D="1"/>
+<BG Val="304" Dt="2017-06-13" Tm="00:28" D="1"/>
+<BG Val="282" Dt="2017-06-12" Tm="00:51" D="1"/>
+<BG Val="264" Dt="2017-06-12" Tm="00:24" D="1"/>
+<BG Val="109" Dt="2017-06-11" Tm="20:08" D="1"/>
+<BG Val="405" Dt="2017-06-09" Tm="20:33" D="1"/>
+<BG Val="288" Dt="2017-06-09" Tm="15:40" D="1"/>
+<BG Val="231" Dt="2017-06-09" Tm="10:19" D="1"/>
+<BG Val="161" Dt="2017-06-09" Tm="06:41" D="1"/>
+<BG Val="141" Dt="2017-06-09" Tm="00:04" D="1"/>
+<BG Val="78" Dt="2017-06-08" Tm="21:04" D="1"/>
+<BG Val="212" Dt="2017-06-08" Tm="12:20" D="1"/>
+<BG Val="203" Dt="2017-06-08" Tm="08:06" Carb="36" D="1"/>
+<BG Val="248" Dt="2017-06-08" Tm="06:41" D="1"/>
+<BG Val="114" Dt="2017-06-08" Tm="00:16" D="1"/>
+<BG Val="109" Dt="2017-06-07" Tm="23:17" D="1"/>
+<BG Val="184" Dt="2017-06-07" Tm="19:35" D="1"/>
+<BG Val="163" Dt="2017-06-07" Tm="15:10" D="1"/>
+<BG Val="142" Dt="2017-06-07" Tm="09:27" D="1"/>
+<BG Val="161" Dt="2017-06-07" Tm="08:06" D="1"/>
+<BG Val="193" Dt="2017-06-07" Tm="04:28" D="1"/>
+<BG Val="119" Dt="2017-06-07" Tm="00:18" D="1"/>
+<BG Val="106" Dt="2017-06-06" Tm="22:46" D="1"/>
+<BG Val="104" Dt="2017-06-06" Tm="19:47" D="1"/>
+<BG Val="251" Dt="2017-06-06" Tm="17:41" D="1"/>
+<BG Val="140" Dt="2017-06-06" Tm="09:24" D="1"/>
+<BG Val="56" Dt="2017-06-06" Tm="06:41" D="1"/>
+<BG Val="90" Dt="2017-06-05" Tm="23:40" Evt="4" D="1"/>
+<BG Val="114" Dt="2017-06-05" Tm="23:16" D="1"/>
+<BG Val="181" Dt="2017-06-05" Tm="22:27" D="1"/>
+<BG Val="139" Dt="2017-06-05" Tm="20:04" D="1"/>
+<BG Val="303" Dt="2017-01-04" Tm="06:51" D="1"/>
+<BG Val="199" Dt="2016-12-12" Tm="00:09" D="1"/>
+<BG Val="112" Dt="2016-12-05" Tm="17:13" D="1"/>
+<BG Val="118" Dt="2016-12-05" Tm="13:55" D="1"/>
+<BG Val="156" Dt="2016-12-05" Tm="11:54" D="1"/>
+<BG Val="59" Dt="2016-12-05" Tm="02:38" D="1"/>
+<BG Val="61" Dt="2016-12-05" Tm="02:20" D="1"/>
+<BG Val="79" Dt="2016-12-05" Tm="01:16" D="1"/>
+<BG Val="212" Dt="2016-12-04" Tm="19:44" D="1"/>
+<BG Val="90" Dt="2016-12-04" Tm="14:58" D="1"/>
+<BG Val="70" Dt="2016-12-04" Tm="12:35" D="1"/>
+<BG Val="147" Dt="2016-12-04" Tm="11:34" D="1"/>
+<BG Val="275" Dt="2016-12-04" Tm="01:17" D="1"/>
+<BG Val="99" Dt="2016-11-28" Tm="08:21" D="1"/>
+<BG Val="174" Dt="2016-11-27" Tm="13:40" D="1"/>
+<BG Val="105" Dt="2016-11-26" Tm="00:49" D="1"/>
+<BG Val="---" Dt="2016-11-25" Tm="16:27" Carb="45" D="1"/>
+<BG Val="63" Dt="2016-11-25" Tm="16:20" D="1"/>
+<BG Val="208" Dt="2016-11-25" Tm="08:24" D="1"/>
+<BG Val="93" Dt="2016-11-25" Tm="07:30" Carb="35" D="1"/>
+<BG Val="59" Dt="2016-11-24" Tm="22:51" D="1"/>
+<BG Val="---" Dt="2016-11-24" Tm="21:55" Carb="40" D="1"/>
+<BG Val="79" Dt="2016-11-24" Tm="21:40" Carb="45" D="1"/>
+<BG Val="94" Dt="2016-11-24" Tm="21:01" D="1"/>
+<BG Val="61" Dt="2016-11-24" Tm="20:02" D="1"/>
+<BG Val="70" Dt="2016-11-24" Tm="19:38" D="1"/>
+<BG Val="65" Dt="2016-11-24" Tm="19:00" D="1"/>
+<BG Val="85" Dt="2016-11-24" Tm="18:23" D="1"/>
+<BG Val="140" Dt="2016-11-24" Tm="17:42" D="1"/>
+<BG Val="192" Dt="2016-11-24" Tm="16:53" D="1"/>
+<BG Val="210" Dt="2016-11-24" Tm="16:26" D="1"/>
+<BG Val="254" Dt="2016-11-24" Tm="15:41" D="1"/>
+<BG Val="109" Dt="2016-11-24" Tm="14:44" Carb="40" D="1"/>
+<BG Val="55" Dt="2016-11-24" Tm="14:15" Carb="40" D="1"/>
+<BG Val="51" Dt="2016-11-24" Tm="14:05" Carb="40" D="1"/>
+<BG Val="82" Dt="2016-11-24" Tm="13:40" D="1"/>
+<BG Val="83" Dt="2016-11-24" Tm="12:30" D="1"/>
+<BG Val="82" Dt="2016-11-24" Tm="11:35" D="1"/>
+<BG Val="171" Dt="2016-11-24" Tm="10:32" D="1"/>
+<BG Val="102" Dt="2016-11-24" Tm="09:21" Carb="40" D="1"/>
+<BG Val="86" Dt="2016-11-23" Tm="23:58" D="1"/>
+<BG Val="143" Dt="2016-11-19" Tm="21:05" D="1"/>
+<BG Val="64" Dt="2016-11-18" Tm="23:00" D="1"/>
+<BG Val="89" Dt="2016-11-17" Tm="23:34" D="1"/>
+<BG Val="64" Dt="2016-11-16" Tm="23:58" D="1"/>
+<BG Val="71" Dt="2016-11-16" Tm="20:39" D="1"/>
+<BG Val="84" Dt="2016-11-16" Tm="08:28" D="1"/>
+<BG Val="130" Dt="2016-11-15" Tm="23:46" Evt="4, 75" D="1"/>
+<BG Val="74" Dt="2016-11-15" Tm="19:57" D="1"/>
+<BG Val="---" Dt="2016-11-14" Tm="10:03" Carb="40" D="1"/>
+</BGDATA>
+<STATISTIC>
+<ST_TIMERANGE Weeks="2" Dt="2017-09-10"/>
+<ST_EVALRESULTS Val="9"/>
+<ST_TSTFREQ1 Val="0.6"/>
+<ST_TSTFREQ2 Val="3.0"/>
+<ST_MBG Val=""/>
+<ST_SD Val=" "/>
+<ST_HBGI Val=""/>
+<ST_LBGI Val=""/>
+</STATISTIC>
+<CHECK CRC="7314"/>
+</IMPORT>

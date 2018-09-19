@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="ACSPIXIP.xsl" ?>
+
+<IMPORT>
+<ACSPIX Type="" SN="" Ver="3.05.01"/>
+<IP Name="Combo" SN="" Dt="2018-07-29" Tm="23:45" ActiveProf="1">
+<IPPROFILE Name="1" Active="1" IUday="0.0" >
+<IPTIMESLOT Number="1" IU="0.0" />
+<IPTIMESLOT Number="2" IU="0.0" />
+<IPTIMESLOT Number="3" IU="0.0" />
+<IPTIMESLOT Number="4" IU="0.0" />
+<IPTIMESLOT Number="5" IU="0.0" />
+<IPTIMESLOT Number="6" IU="0.0" />
+<IPTIMESLOT Number="7" IU="0.0" />
+<IPTIMESLOT Number="8" IU="0.0" />
+<IPTIMESLOT Number="9" IU="0.0" />
+<IPTIMESLOT Number="10" IU="0.0" />
+<IPTIMESLOT Number="11" IU="0.0" />
+<IPTIMESLOT Number="12" IU="0.0" />
+<IPTIMESLOT Number="13" IU="0.0" />
+<IPTIMESLOT Number="14" IU="0.0" />
+<IPTIMESLOT Number="15" IU="0.0" />
+<IPTIMESLOT Number="16" IU="0.0" />
+<IPTIMESLOT Number="17" IU="0.0" />
+<IPTIMESLOT Number="18" IU="0.0" />
+<IPTIMESLOT Number="19" IU="0.0" />
+<IPTIMESLOT Number="20" IU="0.0" />
+<IPTIMESLOT Number="21" IU="0.0" />
+<IPTIMESLOT Number="22" IU="0.0" />
+<IPTIMESLOT Number="23" IU="0.0" />
+<IPTIMESLOT Number="24" IU="0.0" />
+</IPPROFILE>
+<PUMP_SETTINGS PrimeQuantity="25.00">
+<BASAL_RATE_SETTINGS MaximumHourlyBasalRate="25.00" ActiveProf="1" TBRMaxAdjustment="500" TBRMaxDuration="1440" />
+</PUMP_SETTINGS>
+</IP>
+<IPDATA>
+<BOLUS Dt="2018-07-29" Tm="" type="" amount="32.80" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-29" Tm="" type="" amount="62.89" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-29" Tm="23:43" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-29" Tm="23:40" type="Std" amount="2.00" cmd="2" />
+<BASAL Dt="2018-07-29" Tm="23:39" cbrf="1.50" profile="1" remark="Run" />
+<BASAL Dt="2018-07-29" Tm="23:37" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-29" Tm="23:26" type="Std" amount="3.00" cmd="2" />
+<BASAL Dt="2018-07-29" Tm="23:21" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="22:51" cbrf="4.05" profile="1" TBRinc="270%" cmd="2" remark="dur 00:30 h" />
+<BOLUS Dt="2018-07-29" Tm="22:49" type="Std" amount="1.00" />
+<BASAL Dt="2018-07-29" Tm="22:49" cbrf="1.50" profile="1" remark="Run" />
+<EVENT Dt="2018-07-29" Tm="22:47" shortinfo="10.20 IU" description="prime infusion set" />
+<EVENT Dt="2018-07-29" Tm="22:43" description="cartridge changed" />
+<EVENT Dt="2018-07-29" Tm="22:31" shortinfo="E4" description="occlusion" />
+<BOLUS Dt="2018-07-29" Tm="22:29" type="Std" amount="1.50" cmd="2" />
+<BASAL Dt="2018-07-29" Tm="22:29" cbrf="0.00" remark="TBR End (cancelled)" />
+<EVENT Dt="2018-07-29" Tm="22:29" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2018-07-29" Tm="22:29" cbrf="0.00" TBRinc="270%" cmd="2" remark="Stop" />
+<EVENT Dt="2018-07-29" Tm="22:29" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2018-07-29" Tm="22:28" cbrf="4.05" profile="1" TBRinc="270%" cmd="2" remark="dur 00:01 h" />
+<BASAL Dt="2018-07-29" Tm="22:28" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="22:23" cbrf="1.95" profile="1" TBRinc="130%" cmd="2" remark="dur 00:05 h" />
+<BASAL Dt="2018-07-29" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-29" Tm="21:56" type="Std" amount="0.80" cmd="2" />
+<BOLUS Dt="2018-07-29" Tm="21:43" type="Std" amount="2.40" cmd="2" />
+<BASAL Dt="2018-07-29" Tm="21:39" cbrf="1.40" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="21:24" cbrf="1.54" profile="1" TBRinc="110%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-29" Tm="21:24" cbrf="1.40" profile="1" remark="TBR End" />
+<BOLUS Dt="2018-07-29" Tm="21:24" type="Std" amount="3.00" cmd="2" />
+<EVENT Dt="2018-07-29" Tm="21:23" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2018-07-29" Tm="21:23" cbrf="1.96" profile="1" TBRinc="140%" cmd="2" remark="dur 00:01 h" />
+<BASAL Dt="2018-07-29" Tm="21:23" cbrf="1.40" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="21:00" cbrf="2.80" profile="1" TBRinc="200%" />
+<BASAL Dt="2018-07-29" Tm="20:59" cbrf="2.00" profile="1" TBRinc="200%" remark="changed 1" />
+<BASAL Dt="2018-07-29" Tm="20:58" cbrf="2.00" profile="1" TBRinc="200%" cmd="2" remark="dur 00:25 h" />
+<BASAL Dt="2018-07-29" Tm="20:58" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="20:53" cbrf="1.10" profile="1" TBRinc="110%" cmd="2" remark="dur 00:05 h" />
+<BASAL Dt="2018-07-29" Tm="20:53" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="20:43" cbrf="2.00" profile="1" TBRinc="200%" cmd="2" remark="dur 00:10 h" />
+<BASAL Dt="2018-07-29" Tm="20:43" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="20:38" cbrf="1.10" profile="1" TBRinc="110%" cmd="2" remark="dur 00:05 h" />
+<BASAL Dt="2018-07-29" Tm="20:38" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="20:23" cbrf="2.00" profile="1" TBRinc="200%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-29" Tm="20:23" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="20:18" cbrf="1.10" profile="1" TBRinc="110%" cmd="2" remark="dur 00:05 h" />
+<BASAL Dt="2018-07-29" Tm="20:18" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="20:13" cbrf="2.00" profile="1" TBRinc="200%" cmd="2" remark="dur 00:05 h" />
+<BASAL Dt="2018-07-29" Tm="19:54" cbrf="1.00" profile="1" remark="TBR End" />
+<BOLUS Dt="2018-07-29" Tm="19:51" type="Std" amount="1.00" cmd="2" />
+<BASAL Dt="2018-07-29" Tm="19:39" cbrf="1.10" profile="1" TBRinc="110%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-29" Tm="19:39" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="19:33" cbrf="2.00" profile="1" TBRinc="200%" cmd="2" remark="dur 00:06 h" />
+<BASAL Dt="2018-07-29" Tm="19:33" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="19:29" cbrf="1.10" profile="1" TBRinc="110%" cmd="2" remark="dur 00:04 h" />
+<BASAL Dt="2018-07-29" Tm="19:29" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="19:13" cbrf="2.00" profile="1" TBRinc="200%" cmd="2" remark="dur 00:16 h" />
+<BASAL Dt="2018-07-29" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-29" Tm="18:43" cbrf="1.30" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="18:28" cbrf="1.43" profile="1" TBRinc="110%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-29" Tm="18:28" cbrf="1.30" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="18:03" cbrf="1.95" profile="1" TBRinc="150%" cmd="2" remark="dur 00:25 h" />
+<BASAL Dt="2018-07-29" Tm="18:03" cbrf="1.30" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="18:00" cbrf="1.82" profile="1" TBRinc="140%" />
+<BASAL Dt="2018-07-29" Tm="17:53" cbrf="1.96" profile="1" TBRinc="140%" cmd="2" remark="dur 00:10 h" />
+<BASAL Dt="2018-07-29" Tm="17:53" cbrf="1.40" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="17:48" cbrf="1.54" profile="1" TBRinc="110%" cmd="2" remark="dur 00:05 h" />
+<BASAL Dt="2018-07-29" Tm="17:48" cbrf="1.40" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="17:38" cbrf="1.96" profile="1" TBRinc="140%" cmd="2" remark="dur 00:10 h" />
+<BASAL Dt="2018-07-29" Tm="17:25" cbrf="1.40" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="17:10" cbrf="1.54" profile="1" TBRinc="110%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-29" Tm="17:10" cbrf="1.40" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="17:00" cbrf="2.52" profile="1" TBRinc="180%" />
+<BASAL Dt="2018-07-29" Tm="16:43" cbrf="1.98" profile="1" TBRinc="180%" cmd="2" remark="dur 00:27 h" />
+<BOLUS Dt="2018-07-29" Tm="15:10" type="Std" amount="12.90" cmd="2" />
+<BASAL Dt="2018-07-29" Tm="15:03" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="14:33" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-29" Tm="14:27" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="14:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-07-29" Tm="13:57" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-29" Tm="13:10" cbrf="1.20" profile="1" remark="Run" />
+<BASAL Dt="2018-07-29" Tm="12:57" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-29" Tm="12:57" type="Std" amount="2.00" cmd="2" />
+<BASAL Dt="2018-07-29" Tm="12:56" cbrf="1.20" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-07-29" Tm="12:27" cbrf="2.04" profile="1" TBRinc="170%" cmd="2" remark="dur 00:29 h" />
+<BASAL Dt="2018-07-29" Tm="12:27" cbrf="1.20" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="12:22" cbrf="1.32" profile="1" TBRinc="110%" cmd="2" remark="dur 00:05 h" />
+<BASAL Dt="2018-07-29" Tm="12:22" cbrf="1.20" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="12:12" cbrf="2.04" profile="1" TBRinc="170%" cmd="2" remark="dur 00:10 h" />
+<BOLUS Dt="2018-07-29" Tm="12:11" type="Std" amount="1.00" cmd="2" />
+<BASAL Dt="2018-07-29" Tm="12:07" cbrf="1.20" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="11:37" cbrf="2.04" profile="1" TBRinc="170%" cmd="2" remark="dur 00:30 h" />
+<BOLUS Dt="2018-07-29" Tm="11:01" type="Std" amount="1.40" cmd="2" />
+<BASAL Dt="2018-07-29" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-29" Tm="10:12" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="10:00" cbrf="0.90" profile="1" TBRdec=" 90%" />
+<BASAL Dt="2018-07-29" Tm="09:57" cbrf="0.99" profile="1" TBRdec=" 90%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-29" Tm="09:57" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="09:38" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:19 h" />
+<BASAL Dt="2018-07-29" Tm="09:09" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="08:54" cbrf="0.99" profile="1" TBRdec=" 90%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-29" Tm="08:54" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="08:42" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:12 h" />
+<BASAL Dt="2018-07-29" Tm="08:37" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="08:07" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-29" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-29" Tm="06:40" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="06:10" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-29" Tm="04:28" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="04:13" cbrf="1.35" profile="1" TBRdec=" 90%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-29" Tm="04:13" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="03:47" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:26 h" />
+<BASAL Dt="2018-07-29" Tm="03:43" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="03:13" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-29" Tm="02:22" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="02:07" cbrf="1.65" profile="1" TBRinc="110%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-29" Tm="02:07" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="02:02" cbrf="1.95" profile="1" TBRinc="130%" cmd="2" remark="dur 00:05 h" />
+<BASAL Dt="2018-07-29" Tm="02:02" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="02:00" cbrf="1.65" profile="1" TBRinc="110%" />
+<BASAL Dt="2018-07-29" Tm="01:58" cbrf="1.43" profile="1" TBRinc="110%" cmd="2" remark="dur 00:04 h" />
+<BASAL Dt="2018-07-29" Tm="01:58" cbrf="1.30" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="01:52" cbrf="1.95" profile="1" TBRinc="150%" cmd="2" remark="dur 00:06 h" />
+<BASAL Dt="2018-07-29" Tm="01:52" cbrf="1.30" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="01:47" cbrf="1.43" profile="1" TBRinc="110%" cmd="2" remark="dur 00:05 h" />
+<BASAL Dt="2018-07-29" Tm="01:47" cbrf="1.30" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="01:42" cbrf="1.95" profile="1" TBRinc="150%" cmd="2" remark="dur 00:05 h" />
+<BASAL Dt="2018-07-29" Tm="01:19" cbrf="1.30" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="01:04" cbrf="1.17" profile="1" TBRdec=" 90%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-29" Tm="01:04" cbrf="1.30" profile="1" remark="TBR End" />
+<BOLUS Dt="2018-07-29" Tm="01:04" type="Std" amount="0.80" cmd="2" />
+<BASAL Dt="2018-07-29" Tm="01:03" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:01 h" />
+<BASAL Dt="2018-07-29" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-29" Tm="00:22" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="00:07" cbrf="1.35" profile="1" TBRdec=" 90%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-29" Tm="00:07" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-29" Tm="00:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BOLUS Dt="2018-07-28" Tm="" type="" amount="33.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-28" Tm="" type="" amount="61.06" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-28" Tm="23:42" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:25 h" />
+<BASAL Dt="2018-07-28" Tm="22:58" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-28" Tm="22:43" cbrf="1.35" profile="1" TBRdec=" 90%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-28" Tm="22:43" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-28" Tm="22:13" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-28" Tm="22:07" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-28" Tm="22:00" cbrf="1.65" profile="1" TBRinc="110%" />
+<BASAL Dt="2018-07-28" Tm="21:52" cbrf="1.54" profile="1" TBRinc="110%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-28" Tm="21:52" cbrf="1.40" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-28" Tm="21:38" cbrf="1.96" profile="1" TBRinc="140%" cmd="2" remark="dur 00:14 h" />
+<BASAL Dt="2018-07-28" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-28" Tm="20:22" cbrf="1.00" profile="1" remark="TBR End" />
+<BOLUS Dt="2018-07-28" Tm="20:17" type="Std" amount="3.00" cmd="2" />
+<BASAL Dt="2018-07-28" Tm="20:07" cbrf="1.10" profile="1" TBRinc="110%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-28" Tm="20:07" cbrf="1.00" profile="1" remark="TBR End" />
+<BOLUS Dt="2018-07-28" Tm="20:06" type="Std" amount="3.00" cmd="2" />
+<BASAL Dt="2018-07-28" Tm="20:05" cbrf="2.00" profile="1" TBRinc="200%" cmd="2" remark="dur 00:02 h" />
+<BOLUS Dt="2018-07-28" Tm="19:33" type="Std" amount="0.50" cmd="2" />
+<BASAL Dt="2018-07-28" Tm="19:30" cbrf="1.00" profile="1" remark="Run" />
+<BASAL Dt="2018-07-28" Tm="19:16" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-28" Tm="19:10" type="Std" amount="1.00" cmd="2" />
+<BASAL Dt="2018-07-28" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-28" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-28" Tm="17:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-28" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-28" Tm="13:56" type="Std" amount="15.00" />
+<BOLUS Dt="2018-07-28" Tm="13:41" type="Std" amount="0.50" />
+<BASAL Dt="2018-07-28" Tm="13:41" cbrf="1.20" profile="1" remark="Run" />
+<BASAL Dt="2018-07-28" Tm="12:57" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-28" Tm="11:00" cbrf="1.20" profile="1" />
+<BOLUS Dt="2018-07-28" Tm="10:21" type="Std" amount="10.00" />
+<BASAL Dt="2018-07-28" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-28" Tm="09:26" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-28" Tm="08:00" cbrf="0.99" profile="1" TBRdec=" 90%" />
+<BASAL Dt="2018-07-28" Tm="03:26" cbrf="1.35" profile="1" TBRdec=" 90%" remark="dur 06:00 h" />
+<BASAL Dt="2018-07-28" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-28" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-28" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-27" Tm="" type="" amount="31.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-27" Tm="" type="" amount="57.69" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-07-27" Tm="23:36" type="Std" amount="4.00" />
+<BOLUS Dt="2018-07-27" Tm="22:45" type="Std" amount="16.00" />
+<BASAL Dt="2018-07-27" Tm="22:23" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-27" Tm="22:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-07-27" Tm="21:23" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-07-27" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-27" Tm="20:58" cbrf="1.00" profile="1" remark="Run" />
+<BASAL Dt="2018-07-27" Tm="20:42" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-27" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-27" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-27" Tm="17:40" cbrf="1.40" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-27" Tm="17:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-07-27" Tm="16:40" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-07-27" Tm="15:22" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-27" Tm="14:52" cbrf="1.98" profile="1" TBRinc="180%" cmd="2" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-27" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-27" Tm="13:46" type="Std" amount="8.00" />
+<BASAL Dt="2018-07-27" Tm="13:28" cbrf="1.20" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-27" Tm="12:58" cbrf="2.04" profile="1" TBRinc="170%" cmd="2" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-27" Tm="12:36" cbrf="1.20" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-27" Tm="12:06" cbrf="2.04" profile="1" TBRinc="170%" cmd="2" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-27" Tm="11:46" cbrf="1.20" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-27" Tm="11:31" cbrf="1.32" profile="1" TBRinc="110%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-27" Tm="11:31" cbrf="1.20" profile="1" remark="TBR End" />
+<BOLUS Dt="2018-07-27" Tm="11:30" type="Std" amount="3.00" cmd="2" />
+<BASAL Dt="2018-07-27" Tm="11:05" cbrf="2.04" profile="1" TBRinc="170%" cmd="2" remark="dur 00:26 h" />
+<BASAL Dt="2018-07-27" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-27" Tm="10:40" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-27" Tm="10:10" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-27" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-27" Tm="09:44" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-27" Tm="09:14" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-27" Tm="09:08" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-27" Tm="08:38" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-27" Tm="08:38" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-27" Tm="08:32" cbrf="0.99" profile="1" TBRdec=" 90%" cmd="2" remark="dur 00:06 h" />
+<BASAL Dt="2018-07-27" Tm="08:32" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-27" Tm="08:08" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:24 h" />
+<BASAL Dt="2018-07-27" Tm="08:05" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-07-27" Tm="07:52" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-27" Tm="07:52" cbrf="1.50" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-07-27" Tm="07:50" cbrf="1.65" profile="1" TBRinc="110%" cmd="2" remark="dur 00:02 h" />
+<BASAL Dt="2018-07-27" Tm="07:50" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-27" Tm="07:35" cbrf="1.95" profile="1" TBRinc="130%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-27" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-27" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-27" Tm="00:50" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-27" Tm="00:20" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-27" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-26" Tm="" type="" amount="26.80" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-26" Tm="" type="" amount="57.55" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-26" Tm="23:45" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-26" Tm="23:30" cbrf="1.65" profile="1" TBRinc="110%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-26" Tm="23:30" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-26" Tm="23:15" cbrf="1.95" profile="1" TBRinc="130%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-26" Tm="23:10" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-26" Tm="22:40" cbrf="1.95" profile="1" TBRinc="130%" cmd="2" remark="dur 00:30 h" />
+<BOLUS Dt="2018-07-26" Tm="22:06" type="Std" amount="3.00" cmd="2" />
+<BASAL Dt="2018-07-26" Tm="22:05" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-26" Tm="22:00" cbrf="1.65" profile="1" TBRinc="110%" />
+<BOLUS Dt="2018-07-26" Tm="21:56" type="Std" amount="1.00" cmd="2" />
+<BASAL Dt="2018-07-26" Tm="21:50" cbrf="1.54" profile="1" TBRinc="110%" cmd="2" remark="dur 00:15 h" />
+<BASAL Dt="2018-07-26" Tm="21:50" cbrf="1.40" profile="1" remark="TBR End" />
+<BOLUS Dt="2018-07-26" Tm="21:49" type="Std" amount="1.30" cmd="2" />
+<BASAL Dt="2018-07-26" Tm="21:45" cbrf="1.96" profile="1" TBRinc="140%" cmd="2" remark="dur 00:05 h" />
+<BASAL Dt="2018-07-26" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-26" Tm="19:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-07-26" Tm="18:04" type="Std" amount="3.50" />
+<BASAL Dt="2018-07-26" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-26" Tm="17:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-26" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-26" Tm="13:41" type="Std" amount="13.00" />
+<BASAL Dt="2018-07-26" Tm="11:00" cbrf="1.20" profile="1" />
+<BOLUS Dt="2018-07-26" Tm="10:47" type="Std" amount="3.00" cmd="2" />
+<BASAL Dt="2018-07-26" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-26" Tm="09:11" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-07-26" Tm="08:54" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-26" Tm="08:54" cbrf="1.10" profile="1" remark="TBR End (cancelled)" />
+<BOLUS Dt="2018-07-26" Tm="08:53" type="Std" amount="2.00" cmd="2" />
+<BASAL Dt="2018-07-26" Tm="08:30" cbrf="1.98" profile="1" TBRinc="180%" cmd="2" remark="dur 00:24 h" />
+<BASAL Dt="2018-07-26" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-26" Tm="06:56" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-26" Tm="06:26" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-26" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-26" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-26" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-25" Tm="" type="" amount="38.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-25" Tm="" type="" amount="66.77" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-07-25" Tm="23:36" type="Std" amount="7.00" />
+<BOLUS Dt="2018-07-25" Tm="22:34" type="Std" amount="21.00" />
+<BASAL Dt="2018-07-25" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-25" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-25" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-25" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-25" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-25" Tm="14:31" type="Std" amount="10.00" />
+<BASAL Dt="2018-07-25" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-25" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-25" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-25" Tm="08:46" cbrf="1.10" profile="1" remark="Run" />
+<EVENT Dt="2018-07-25" Tm="08:46" shortinfo="11.20 IU" description="prime infusion set" />
+<EVENT Dt="2018-07-25" Tm="08:43" description="cartridge changed" />
+<BASAL Dt="2018-07-25" Tm="08:42" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-25" Tm="08:15" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-07-25" Tm="07:53" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-07-25" Tm="06:18" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2018-07-25" Tm="02:21" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-25" Tm="02:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-07-25" Tm="01:21" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-07-25" Tm="01:21" cbrf="1.30" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-25" Tm="01:21" cbrf="1.17" profile="1" TBRdec=" 90%" cmd="2" remark="dur 00:00 h" />
+<BASAL Dt="2018-07-25" Tm="01:21" cbrf="1.30" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-25" Tm="01:16" cbrf="0.52" profile="1" TBRdec=" 40%" cmd="2" remark="dur 00:05 h" />
+<BASAL Dt="2018-07-25" Tm="01:16" cbrf="1.30" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-25" Tm="01:06" cbrf="1.17" profile="1" TBRdec=" 90%" cmd="2" remark="dur 00:10 h" />
+<BASAL Dt="2018-07-25" Tm="01:06" cbrf="1.30" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-25" Tm="01:00" cbrf="0.26" profile="1" TBRdec=" 20%" />
+<BASAL Dt="2018-07-25" Tm="00:56" cbrf="0.30" profile="1" TBRdec=" 20%" cmd="2" remark="dur 00:10 h" />
+<BASAL Dt="2018-07-25" Tm="00:32" cbrf="1.50" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-07-25" Tm="00:26" cbrf="1.35" profile="1" TBRdec=" 90%" cmd="2" remark="dur 00:06 h" />
+<BASAL Dt="2018-07-25" Tm="00:26" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-25" Tm="00:24" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:02 h" />
+<BASAL Dt="2018-07-25" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-24" Tm="" type="" amount="10.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-24" Tm="" type="" amount="40.04" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-24" Tm="23:58" cbrf="1.50" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-07-24" Tm="23:51" cbrf="1.35" profile="1" TBRdec=" 90%" cmd="2" remark="dur 00:07 h" />
+<BASAL Dt="2018-07-24" Tm="23:51" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-24" Tm="23:46" cbrf="0.15" profile="1" TBRdec=" 10%" cmd="2" remark="dur 00:05 h" />
+<BASAL Dt="2018-07-24" Tm="23:42" cbrf="1.50" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-07-24" Tm="23:40" cbrf="1.95" profile="1" TBRinc="130%" cmd="2" remark="dur 00:02 h" />
+<BASAL Dt="2018-07-24" Tm="23:28" cbrf="1.50" profile="1" remark="changed 1" />
+<BASAL Dt="2018-07-24" Tm="23:26" cbrf="1.50" profile="1" remark="Run" />
+<BASAL Dt="2018-07-24" Tm="23:25" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-24" Tm="23:20" cbrf="1.50" profile="1" remark="time / date set" />
+<BASAL Dt="2018-07-24" Tm="23:17" cbrf="1.50" profile="1" remark="time / date corrected" />
+<BASAL Dt="2018-07-24" Tm="22:11" cbrf="1.50" profile="1" remark="Run" />
+<BASAL Dt="2018-07-24" Tm="22:11" cbrf="0.00" remark="1 - 1" />
+<BASAL Dt="2018-07-24" Tm="22:11" cbrf="0.00" remark="changed 5" />
+<BASAL Dt="2018-07-24" Tm="22:11" cbrf="0.00" remark="changed 4" />
+<BASAL Dt="2018-07-24" Tm="22:11" cbrf="0.00" remark="changed 3" />
+<BASAL Dt="2018-07-24" Tm="22:11" cbrf="0.00" remark="changed 2" />
+<BASAL Dt="2018-07-24" Tm="22:11" cbrf="0.00" remark="changed 1" />
+<BASAL Dt="2018-07-24" Tm="22:09" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-24" Tm="22:00" type="Std" amount="2.00" />
+<BASAL Dt="2018-07-24" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-24" Tm="21:52" cbrf="1.40" profile="1" remark="Run" />
+<BASAL Dt="2018-07-24" Tm="21:50" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-24" Tm="21:50" cbrf="1.40" profile="1" remark="changed 1" />
+<BASAL Dt="2018-07-24" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-24" Tm="20:46" cbrf="1.00" profile="1" remark="1 - 1" />
+<BASAL Dt="2018-07-24" Tm="19:37" cbrf="1.00" profile="1" remark="1 - 1" />
+<BOLUS Dt="2018-07-24" Tm="19:29" type="Std" amount="1.50" />
+<BASAL Dt="2018-07-24" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-24" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-24" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-24" Tm="14:41" type="Std" amount="7.00" />
+<BASAL Dt="2018-07-24" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-24" Tm="13:53" cbrf="1.20" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-24" Tm="13:23" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-24" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-24" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-24" Tm="09:03" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-24" Tm="08:33" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-24" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-24" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-24" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-24" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-23" Tm="" type="" amount="8.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-23" Tm="" type="" amount="35.37" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-23" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-23" Tm="21:49" type="Std" amount="1.00" />
+<BASAL Dt="2018-07-23" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-23" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-23" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-23" Tm="17:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-23" Tm="14:42" cbrf="1.10" profile="1" remark="Run" />
+<EVENT Dt="2018-07-23" Tm="14:42" shortinfo="E8" description="power interrupt" />
+<BASAL Dt="2018-07-23" Tm="14:42" cbrf="0.00" remark="power up" />
+<BASAL Dt="2018-07-23" Tm="14:39" cbrf="0.00" remark="power down" />
+<BASAL Dt="2018-07-23" Tm="14:39" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-23" Tm="14:39" type="Std" amount="4.00" />
+<BASAL Dt="2018-07-23" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-23" Tm="13:38" type="Std" amount="2.00" />
+<BASAL Dt="2018-07-23" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-23" Tm="10:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-07-23" Tm="09:21" type="Std" amount="1.50" />
+<BASAL Dt="2018-07-23" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-23" Tm="06:30" cbrf="1.50" profile="1" remark="2 - 1" />
+<BASAL Dt="2018-07-23" Tm="05:00" cbrf="0.90" profile="2" />
+<BASAL Dt="2018-07-23" Tm="03:39" cbrf="1.05" profile="2" remark="TBR End" />
+<BASAL Dt="2018-07-23" Tm="03:09" cbrf="0.00" profile="2" TBRdec="  0%" remark="1 - 2" />
+<BASAL Dt="2018-07-23" Tm="03:09" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-23" Tm="03:09" cbrf="1.50" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-07-23" Tm="03:09" cbrf="0.00" profile="1" TBRdec="  0%" remark="1 - 1" />
+<BASAL Dt="2018-07-23" Tm="03:09" cbrf="0.00" profile="1" TBRdec="  0%" remark="2 - 1" />
+<BASAL Dt="2018-07-23" Tm="03:08" cbrf="0.00" profile="2" TBRdec="  0%" remark="dur 00:01 h" />
+<BASAL Dt="2018-07-23" Tm="03:08" cbrf="1.05" profile="2" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-07-23" Tm="03:08" cbrf="0.00" profile="2" TBRdec="  0%" remark="1 - 2" />
+<BASAL Dt="2018-07-23" Tm="03:01" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:07 h" />
+<BASAL Dt="2018-07-23" Tm="03:01" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-23" Tm="02:59" cbrf="1.20" profile="1" TBRdec=" 80%" remark="dur 00:02 h" />
+<BASAL Dt="2018-07-23" Tm="02:59" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-23" Tm="02:29" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-23" Tm="02:29" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-23" Tm="02:19" cbrf="1.20" profile="1" TBRdec=" 80%" remark="dur 00:10 h" />
+<BASAL Dt="2018-07-23" Tm="02:19" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-23" Tm="02:00" cbrf="1.35" profile="1" TBRdec=" 90%" />
+<BASAL Dt="2018-07-23" Tm="01:00" cbrf="1.17" profile="1" TBRdec=" 90%" />
+<BASAL Dt="2018-07-23" Tm="00:27" cbrf="1.35" profile="1" TBRdec=" 90%" remark="dur 01:52 h" />
+<BASAL Dt="2018-07-23" Tm="00:22" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-23" Tm="00:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BOLUS Dt="2018-07-22" Tm="" type="" amount="47.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-22" Tm="" type="" amount="76.72" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-22" Tm="23:22" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BOLUS Dt="2018-07-22" Tm="22:00" type="Std" amount="12.00" />
+<BASAL Dt="2018-07-22" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-22" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-22" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-22" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-22" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-22" Tm="14:47" type="Std" amount="18.00" />
+<BASAL Dt="2018-07-22" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-22" Tm="12:20" type="Std" amount="10.00" />
+<BASAL Dt="2018-07-22" Tm="11:35" cbrf="1.20" profile="1" remark="Run" />
+<BASAL Dt="2018-07-22" Tm="11:17" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-22" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-22" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-22" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-22" Tm="02:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-22" Tm="01:06" type="Std" amount="7.00" />
+<BASAL Dt="2018-07-22" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-22" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-21" Tm="" type="" amount="75.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-21" Tm="" type="" amount="105.45" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-07-21" Tm="23:05" type="Std" amount="17.00" />
+<BOLUS Dt="2018-07-21" Tm="22:08" type="Std" amount="5.00" />
+<BASAL Dt="2018-07-21" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-21" Tm="21:12" type="Std" amount="12.00" />
+<BASAL Dt="2018-07-21" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-21" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-21" Tm="18:14" cbrf="1.30" profile="1" remark="Run" />
+<BASAL Dt="2018-07-21" Tm="17:28" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-21" Tm="17:28" type="Std" amount="6.50" />
+<BOLUS Dt="2018-07-21" Tm="17:27" type="Std" amount="6.00" />
+<BASAL Dt="2018-07-21" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-21" Tm="14:54" type="Std" amount="10.00" />
+<BASAL Dt="2018-07-21" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-21" Tm="11:00" cbrf="1.20" profile="1" />
+<BOLUS Dt="2018-07-21" Tm="10:13" type="Std" amount="2.00" />
+<BASAL Dt="2018-07-21" Tm="10:13" cbrf="1.00" profile="1" remark="Run" />
+<BASAL Dt="2018-07-21" Tm="10:13" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-21" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-21" Tm="08:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-21" Tm="02:17" type="Std" amount="8.00" />
+<BASAL Dt="2018-07-21" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-21" Tm="01:00" cbrf="1.30" profile="1" />
+<BOLUS Dt="2018-07-21" Tm="00:20" type="Std" amount="9.00" />
+<BASAL Dt="2018-07-21" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-20" Tm="" type="" amount="9.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-20" Tm="" type="" amount="39.88" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-20" Tm="23:22" cbrf="1.50" profile="1" remark="Run" />
+<EVENT Dt="2018-07-20" Tm="23:21" shortinfo="19.10 IU" description="prime infusion set" />
+<EVENT Dt="2018-07-20" Tm="23:17" description="cartridge changed" />
+<BASAL Dt="2018-07-20" Tm="23:17" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-20" Tm="23:15" type="Std" amount="3.00" />
+<BOLUS Dt="2018-07-20" Tm="22:27" type="Std" amount="2.00" />
+<BASAL Dt="2018-07-20" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-20" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-20" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-20" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-20" Tm="17:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-20" Tm="14:00" cbrf="1.10" profile="1" />
+<EVENT Dt="2018-07-20" Tm="13:57" shortinfo="W1" description="cartridge low" />
+<BOLUS Dt="2018-07-20" Tm="13:56" type="Std" amount="4.00" />
+<BASAL Dt="2018-07-20" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-20" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-20" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-20" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-20" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-20" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-19" Tm="" type="" amount="23.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-19" Tm="" type="" amount="52.43" remark="Bolus+Basal Total"/>
+<EVENT Dt="2018-07-19" Tm="23:48" shortinfo="W2" description="battery low" />
+<BASAL Dt="2018-07-19" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-19" Tm="21:05" type="Std" amount="9.00" />
+<BASAL Dt="2018-07-19" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-19" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-19" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-19" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-19" Tm="14:08" type="Std" amount="6.00" />
+<BASAL Dt="2018-07-19" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-19" Tm="11:49" cbrf="1.20" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-19" Tm="11:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-07-19" Tm="10:49" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-07-19" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-19" Tm="08:29" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-07-19" Tm="08:07" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-19" Tm="08:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-19" Tm="07:58" type="Std" amount="8.00" />
+<BASAL Dt="2018-07-19" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-19" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-19" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-18" Tm="" type="" amount="36.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-18" Tm="" type="" amount="65.93" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-18" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-18" Tm="21:08" type="Std" amount="5.00" />
+<BASAL Dt="2018-07-18" Tm="21:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-18" Tm="19:53" type="Std" amount="10.00" />
+<BASAL Dt="2018-07-18" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-18" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-18" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-18" Tm="14:16" type="Std" amount="11.50" />
+<BASAL Dt="2018-07-18" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-18" Tm="12:29" cbrf="1.20" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-18" Tm="11:29" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-07-18" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-18" Tm="10:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-07-18" Tm="09:19" type="Std" amount="2.00" />
+<BASAL Dt="2018-07-18" Tm="08:28" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-07-18" Tm="08:08" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-18" Tm="08:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-18" Tm="07:50" type="Std" amount="8.00" />
+<BASAL Dt="2018-07-18" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-18" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-18" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-17" Tm="" type="" amount="53.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-17" Tm="" type="" amount="78.97" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-07-17" Tm="23:33" type="Std" amount="10.00" />
+<BOLUS Dt="2018-07-17" Tm="23:10" type="Std" amount="5.50" />
+<BOLUS Dt="2018-07-17" Tm="22:25" type="Std" amount="2.00" />
+<BASAL Dt="2018-07-17" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-17" Tm="21:40" type="Std" amount="10.00" />
+<BASAL Dt="2018-07-17" Tm="21:39" cbrf="1.40" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-07-17" Tm="21:03" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:36 h" />
+<BASAL Dt="2018-07-17" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-17" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-17" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-17" Tm="17:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-17" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-17" Tm="13:33" type="Std" amount="12.00" />
+<BASAL Dt="2018-07-17" Tm="12:31" cbrf="1.20" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-17" Tm="11:31" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-07-17" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-17" Tm="10:36" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-17" Tm="10:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-07-17" Tm="09:36" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BOLUS Dt="2018-07-17" Tm="08:30" type="Std" amount="2.00" />
+<BASAL Dt="2018-07-17" Tm="08:02" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-07-17" Tm="07:43" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-17" Tm="07:36" type="Std" amount="5.00" />
+<BOLUS Dt="2018-07-17" Tm="05:37" type="Std" amount="7.00" />
+<BASAL Dt="2018-07-17" Tm="05:36" cbrf="1.50" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-07-17" Tm="02:00" cbrf="1.35" profile="1" TBRdec=" 90%" />
+<BASAL Dt="2018-07-17" Tm="01:00" cbrf="1.17" profile="1" TBRdec=" 90%" />
+<BASAL Dt="2018-07-17" Tm="00:52" cbrf="1.35" profile="1" TBRdec=" 90%" remark="dur 04:44 h" />
+<BASAL Dt="2018-07-17" Tm="00:52" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-17" Tm="00:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BOLUS Dt="2018-07-16" Tm="" type="" amount="34.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-16" Tm="" type="" amount="63.86" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-16" Tm="23:52" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-07-16" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-16" Tm="21:56" type="Std" amount="7.00" />
+<BOLUS Dt="2018-07-16" Tm="21:27" type="Std" amount="15.00" />
+<BASAL Dt="2018-07-16" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-16" Tm="20:56" cbrf="1.00" profile="1" remark="Run" />
+<BASAL Dt="2018-07-16" Tm="20:23" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-16" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-16" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-16" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-16" Tm="14:26" type="Std" amount="11.00" />
+<BASAL Dt="2018-07-16" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-16" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-16" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-16" Tm="08:39" cbrf="1.10" profile="1" remark="Run" />
+<EVENT Dt="2018-07-16" Tm="08:38" shortinfo="14.50 IU" description="prime infusion set" />
+<EVENT Dt="2018-07-16" Tm="08:34" description="cartridge changed" />
+<EVENT Dt="2018-07-16" Tm="07:52" shortinfo="E4" description="occlusion" />
+<BOLUS Dt="2018-07-16" Tm="07:52" type="Std" amount="1.50" />
+<EVENT Dt="2018-07-16" Tm="07:52" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2018-07-16" Tm="07:52" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-07-16" Tm="07:52" shortinfo="E4" description="occlusion" />
+<EVENT Dt="2018-07-16" Tm="03:15" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2018-07-16" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-16" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-16" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-15" Tm="" type="" amount="33.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-15" Tm="" type="" amount="64.50" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-15" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-15" Tm="21:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-15" Tm="19:55" type="Std" amount="6.00" />
+<BASAL Dt="2018-07-15" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-15" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-15" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-15" Tm="14:55" type="Mul" amount="23.00" remark="10.40 / 12.60  1:29 h" />
+<BASAL Dt="2018-07-15" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-15" Tm="11:00" cbrf="1.20" profile="1" />
+<BOLUS Dt="2018-07-15" Tm="10:41" type="Std" amount="4.50" />
+<BASAL Dt="2018-07-15" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-15" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-15" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-15" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-15" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-14" Tm="" type="" amount="35.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-14" Tm="" type="" amount="63.21" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-07-14" Tm="22:21" type="Std" amount="14.00" />
+<BASAL Dt="2018-07-14" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-14" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-14" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-14" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-14" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-14" Tm="15:16" type="Std" amount="10.00" />
+<BASAL Dt="2018-07-14" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-14" Tm="12:11" cbrf="1.20" profile="1" remark="Run" />
+<BASAL Dt="2018-07-14" Tm="11:52" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-14" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-14" Tm="10:44" cbrf="1.00" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-07-14" Tm="10:00" cbrf="0.90" profile="1" TBRdec=" 90%" />
+<BASAL Dt="2018-07-14" Tm="08:00" cbrf="0.99" profile="1" TBRdec=" 90%" />
+<BASAL Dt="2018-07-14" Tm="03:29" cbrf="1.35" profile="1" TBRdec=" 90%" remark="dur 07:15 h" />
+<BOLUS Dt="2018-07-14" Tm="02:29" type="Std" amount="11.00" />
+<BASAL Dt="2018-07-14" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-14" Tm="01:19" cbrf="1.30" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-14" Tm="01:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-07-14" Tm="00:19" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-07-14" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-13" Tm="" type="" amount="28.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-13" Tm="" type="" amount="55.72" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-07-13" Tm="23:19" type="Std" amount="8.00" />
+<BASAL Dt="2018-07-13" Tm="22:11" cbrf="1.50" profile="1" remark="Run" />
+<BASAL Dt="2018-07-13" Tm="21:53" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-13" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-13" Tm="20:01" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-13" Tm="19:01" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-07-13" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-13" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-13" Tm="17:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-13" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-13" Tm="13:41" type="Std" amount="10.00" />
+<BASAL Dt="2018-07-13" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-13" Tm="10:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-07-13" Tm="08:22" type="Std" amount="10.00" />
+<BASAL Dt="2018-07-13" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-13" Tm="07:01" cbrf="1.50" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-07-13" Tm="02:00" cbrf="1.35" profile="1" TBRdec=" 90%" />
+<BASAL Dt="2018-07-13" Tm="01:00" cbrf="1.17" profile="1" TBRdec=" 90%" />
+<BASAL Dt="2018-07-13" Tm="00:38" cbrf="1.35" profile="1" TBRdec=" 90%" remark="dur 06:23 h" />
+<BASAL Dt="2018-07-13" Tm="00:36" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-13" Tm="00:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BOLUS Dt="2018-07-12" Tm="" type="" amount="21.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-12" Tm="" type="" amount="48.95" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-12" Tm="23:36" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-07-12" Tm="23:27" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-12" Tm="22:27" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-07-12" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-12" Tm="21:02" type="Std" amount="11.00" />
+<BASAL Dt="2018-07-12" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-12" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-12" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-12" Tm="17:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-12" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-12" Tm="13:57" type="Std" amount="5.00" />
+<BOLUS Dt="2018-07-12" Tm="11:18" type="Std" amount="1.00" />
+<BASAL Dt="2018-07-12" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-12" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-12" Tm="08:37" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-07-12" Tm="08:14" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-12" Tm="08:04" type="Std" amount="4.00" />
+<BASAL Dt="2018-07-12" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-12" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-12" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-12" Tm="00:22" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-12" Tm="00:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BOLUS Dt="2018-07-11" Tm="" type="" amount="33.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-11" Tm="" type="" amount="60.24" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-11" Tm="23:22" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-07-11" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-11" Tm="21:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-11" Tm="20:53" type="Std" amount="12.00" />
+<BASAL Dt="2018-07-11" Tm="19:51" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-11" Tm="19:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-07-11" Tm="18:51" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-07-11" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-11" Tm="17:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-11" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-11" Tm="13:55" type="Std" amount="10.00" />
+<BOLUS Dt="2018-07-11" Tm="12:30" type="Std" amount="4.00" />
+<BOLUS Dt="2018-07-11" Tm="11:28" type="Std" amount="1.00" />
+<BASAL Dt="2018-07-11" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-11" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-11" Tm="09:20" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-11" Tm="08:50" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:30 h" />
+<BASAL Dt="2018-07-11" Tm="08:33" cbrf="1.10" profile="1" remark="Run" />
+<EVENT Dt="2018-07-11" Tm="08:32" shortinfo="10.00 IU" description="prime infusion set" />
+<EVENT Dt="2018-07-11" Tm="08:24" description="cartridge changed" />
+<BASAL Dt="2018-07-11" Tm="08:24" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-11" Tm="08:18" type="Std" amount="6.00" />
+<BASAL Dt="2018-07-11" Tm="08:03" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-07-11" Tm="07:43" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-07-11" Tm="04:54" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2018-07-11" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-11" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-11" Tm="00:24" cbrf="1.50" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-07-11" Tm="00:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BOLUS Dt="2018-07-10" Tm="" type="" amount="69.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-10" Tm="" type="" amount="97.76" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-10" Tm="23:56" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:28 h" />
+<BASAL Dt="2018-07-10" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-10" Tm="21:47" type="Std" amount="14.00" />
+<BASAL Dt="2018-07-10" Tm="21:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-10" Tm="19:56" type="Std" amount="13.00" />
+<BASAL Dt="2018-07-10" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-10" Tm="18:51" cbrf="1.30" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-10" Tm="18:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-07-10" Tm="17:51" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-07-10" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-10" Tm="16:13" type="Std" amount="14.00" />
+<BOLUS Dt="2018-07-10" Tm="16:07" type="Std" amount="5.00" />
+<BOLUS Dt="2018-07-10" Tm="14:24" type="Std" amount="11.50" />
+<BASAL Dt="2018-07-10" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-10" Tm="11:46" type="Std" amount="1.00" />
+<BASAL Dt="2018-07-10" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-10" Tm="10:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-07-10" Tm="08:38" type="Std" amount="11.00" />
+<BASAL Dt="2018-07-10" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-10" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-10" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-10" Tm="00:55" cbrf="1.50" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-07-10" Tm="00:50" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:05 h" />
+<BASAL Dt="2018-07-10" Tm="00:50" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-10" Tm="00:01" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:49 h" />
+<BASAL Dt="2018-07-10" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-09" Tm="" type="" amount="44.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-09" Tm="" type="" amount="74.57" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-09" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-09" Tm="21:35" type="Std" amount="10.00" />
+<BASAL Dt="2018-07-09" Tm="21:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-09" Tm="20:43" type="Std" amount="6.50" />
+<BASAL Dt="2018-07-09" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-09" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-09" Tm="17:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-09" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-09" Tm="13:58" type="Std" amount="14.00" />
+<BOLUS Dt="2018-07-09" Tm="11:07" type="Std" amount="4.00" />
+<BASAL Dt="2018-07-09" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-09" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-09" Tm="08:19" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-07-09" Tm="07:59" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-09" Tm="07:59" cbrf="1.50" profile="1" remark="TBR End (cancelled)" />
+<BOLUS Dt="2018-07-09" Tm="07:44" type="Std" amount="10.00" />
+<BASAL Dt="2018-07-09" Tm="04:18" cbrf="1.35" profile="1" TBRdec=" 90%" remark="dur 03:41 h" />
+<BASAL Dt="2018-07-09" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-09" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-09" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-08" Tm="" type="" amount="49.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-08" Tm="" type="" amount="76.60" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-08" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-08" Tm="21:53" type="Std" amount="11.00" />
+<BASAL Dt="2018-07-08" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-08" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-08" Tm="18:00" cbrf="1.30" profile="1" />
+<BOLUS Dt="2018-07-08" Tm="17:09" type="Std" amount="2.50" />
+<BASAL Dt="2018-07-08" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-08" Tm="15:10" type="Std" amount="12.00" />
+<BASAL Dt="2018-07-08" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-08" Tm="13:55" cbrf="1.20" profile="1" remark="Run" />
+<EVENT Dt="2018-07-08" Tm="13:55" shortinfo="E8" description="power interrupt" />
+<BASAL Dt="2018-07-08" Tm="13:55" cbrf="0.00" remark="power up" />
+<BASAL Dt="2018-07-08" Tm="13:54" cbrf="0.00" remark="power down" />
+<BASAL Dt="2018-07-08" Tm="13:54" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-08" Tm="13:17" cbrf="1.20" profile="1" remark="Run" />
+<EVENT Dt="2018-07-08" Tm="13:17" shortinfo="E8" description="power interrupt" />
+<BASAL Dt="2018-07-08" Tm="13:17" cbrf="0.00" remark="power up" />
+<BASAL Dt="2018-07-08" Tm="11:51" cbrf="0.00" remark="power down" />
+<BASAL Dt="2018-07-08" Tm="11:51" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-08" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-08" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-08" Tm="08:36" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-08" Tm="08:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-07-08" Tm="07:06" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:30 h" />
+<BASAL Dt="2018-07-08" Tm="07:06" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-07-08" Tm="07:00" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:06 h" />
+<BOLUS Dt="2018-07-08" Tm="02:23" type="Std" amount="10.00" />
+<BASAL Dt="2018-07-08" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-08" Tm="01:00" cbrf="1.30" profile="1" />
+<BOLUS Dt="2018-07-08" Tm="00:55" type="Std" amount="7.00" />
+<BOLUS Dt="2018-07-08" Tm="00:23" type="Std" amount="3.00" />
+<BOLUS Dt="2018-07-08" Tm="00:02" type="Std" amount="4.00" />
+<BASAL Dt="2018-07-08" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-07" Tm="" type="" amount="41.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-07" Tm="" type="" amount="70.10" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-07-07" Tm="23:00" type="Std" amount="9.00" />
+<BASAL Dt="2018-07-07" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-07" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-07" Tm="20:19" cbrf="1.00" profile="1" remark="Run" />
+<EVENT Dt="2018-07-07" Tm="20:19" shortinfo="17.50 IU" description="prime infusion set" />
+<EVENT Dt="2018-07-07" Tm="20:15" description="cartridge changed" />
+<EVENT Dt="2018-07-07" Tm="20:15" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2018-07-07" Tm="20:15" cbrf="0.00" remark="power up" />
+<BASAL Dt="2018-07-07" Tm="18:57" cbrf="0.00" remark="power down" />
+<BASAL Dt="2018-07-07" Tm="18:57" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-07" Tm="18:48" cbrf="1.30" profile="1" remark="Run" />
+<BASAL Dt="2018-07-07" Tm="18:48" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-07-07" Tm="18:48" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2018-07-07" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-07" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-07" Tm="16:43" type="Std" amount="5.00" />
+<BOLUS Dt="2018-07-07" Tm="16:00" type="Std" amount="10.00" />
+<EVENT Dt="2018-07-07" Tm="16:00" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2018-07-07" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-07" Tm="12:58" type="Std" amount="7.00" />
+<BASAL Dt="2018-07-07" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-07" Tm="10:18" cbrf="1.00" profile="1" remark="Run" />
+<BASAL Dt="2018-07-07" Tm="09:48" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-07" Tm="08:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-07" Tm="02:59" type="Std" amount="10.00" />
+<BASAL Dt="2018-07-07" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-07" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-07" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-06" Tm="" type="" amount="58.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-06" Tm="" type="" amount="87.82" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-07-06" Tm="22:36" type="Std" amount="18.50" />
+<BASAL Dt="2018-07-06" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-06" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-06" Tm="20:52" cbrf="1.00" profile="1" remark="Run" />
+<BASAL Dt="2018-07-06" Tm="20:21" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-06" Tm="20:21" cbrf="1.00" profile="1" remark="Run" />
+<BASAL Dt="2018-07-06" Tm="20:18" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-06" Tm="19:36" type="Std" amount="7.50" />
+<BASAL Dt="2018-07-06" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-06" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-06" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-06" Tm="15:29" type="Std" amount="10.00" />
+<BASAL Dt="2018-07-06" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-06" Tm="11:30" type="Std" amount="9.00" />
+<BASAL Dt="2018-07-06" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-06" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-06" Tm="08:20" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-07-06" Tm="07:50" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-06" Tm="02:57" type="Std" amount="13.00" />
+<BASAL Dt="2018-07-06" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-06" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-06" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-05" Tm="" type="" amount="11.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-05" Tm="" type="" amount="41.91" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-05" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-05" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-05" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-05" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-05" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-05" Tm="14:38" type="Std" amount="11.00" />
+<BASAL Dt="2018-07-05" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-05" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-05" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-05" Tm="08:18" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-07-05" Tm="08:13" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-05" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-05" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-05" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-05" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-04" Tm="" type="" amount="29.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-04" Tm="" type="" amount="59.47" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-04" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-04" Tm="21:41" type="Std" amount="19.00" />
+<BASAL Dt="2018-07-04" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-04" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-04" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-04" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-04" Tm="14:05" type="Std" amount="7.00" />
+<BASAL Dt="2018-07-04" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-04" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-04" Tm="10:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-07-04" Tm="08:37" type="Std" amount="3.00" />
+<BASAL Dt="2018-07-04" Tm="08:10" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-07-04" Tm="07:46" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-04" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-04" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-04" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-03" Tm="" type="" amount="34.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-03" Tm="" type="" amount="64.88" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-03" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-03" Tm="21:38" type="Std" amount="16.00" />
+<BASAL Dt="2018-07-03" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-03" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-03" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-03" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-03" Tm="14:19" type="Std" amount="9.50" />
+<BASAL Dt="2018-07-03" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-03" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-03" Tm="10:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-07-03" Tm="08:47" type="Std" amount="1.00" />
+<BASAL Dt="2018-07-03" Tm="08:47" cbrf="1.10" profile="1" remark="Run" />
+<EVENT Dt="2018-07-03" Tm="08:45" shortinfo="9.40 IU" description="prime infusion set" />
+<EVENT Dt="2018-07-03" Tm="08:42" description="cartridge changed" />
+<BASAL Dt="2018-07-03" Tm="08:42" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-03" Tm="08:29" type="Std" amount="8.00" />
+<BASAL Dt="2018-07-03" Tm="08:25" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-07-03" Tm="07:57" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-07-03" Tm="05:30" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2018-07-03" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-03" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-03" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-02" Tm="" type="" amount="42.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-02" Tm="" type="" amount="72.73" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-02" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-02" Tm="21:31" type="Std" amount="10.00" />
+<BOLUS Dt="2018-07-02" Tm="21:27" type="Std" amount="1.50" />
+<BASAL Dt="2018-07-02" Tm="21:27" cbrf="1.40" profile="1" remark="Run" />
+<BOLUS Dt="2018-07-02" Tm="21:27" type="Std" amount="1.10" />
+<EVENT Dt="2018-07-02" Tm="21:27" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2018-07-02" Tm="21:27" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-07-02" Tm="21:27" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2018-07-02" Tm="21:26" cbrf="1.40" profile="1" remark="Run" />
+<BOLUS Dt="2018-07-02" Tm="21:26" type="Std" amount="1.10" />
+<EVENT Dt="2018-07-02" Tm="21:26" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2018-07-02" Tm="21:26" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-07-02" Tm="21:26" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2018-07-02" Tm="21:26" cbrf="1.40" profile="1" remark="Run" />
+<BOLUS Dt="2018-07-02" Tm="21:25" type="Std" amount="0.80" />
+<EVENT Dt="2018-07-02" Tm="21:25" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2018-07-02" Tm="21:25" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-07-02" Tm="21:25" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2018-07-02" Tm="21:25" cbrf="1.40" profile="1" remark="Run" />
+<BOLUS Dt="2018-07-02" Tm="21:25" type="Std" amount="2.00" />
+<EVENT Dt="2018-07-02" Tm="21:25" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2018-07-02" Tm="21:25" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-07-02" Tm="21:25" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2018-07-02" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-02" Tm="20:06" cbrf="1.00" profile="1" remark="Run" />
+<BASAL Dt="2018-07-02" Tm="20:06" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-07-02" Tm="20:06" shortinfo="E4" description="occlusion" />
+<BOLUS Dt="2018-07-02" Tm="19:53" type="Std" amount="5.00" />
+<BASAL Dt="2018-07-02" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-02" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-02" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-02" Tm="14:52" type="Std" amount="12.00" />
+<BASAL Dt="2018-07-02" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-07-02" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-02" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-02" Tm="08:08" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-07-02" Tm="07:54" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-07-02" Tm="07:54" type="Std" amount="8.00" />
+<BOLUS Dt="2018-07-02" Tm="03:19" type="Std" amount="1.00" />
+<BASAL Dt="2018-07-02" Tm="03:16" cbrf="1.50" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-07-02" Tm="02:00" cbrf="1.35" profile="1" TBRdec=" 90%" />
+<BASAL Dt="2018-07-02" Tm="01:00" cbrf="1.17" profile="1" TBRdec=" 90%" />
+<BASAL Dt="2018-07-02" Tm="00:06" cbrf="1.35" profile="1" TBRdec=" 90%" remark="dur 03:10 h" />
+<BASAL Dt="2018-07-02" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-01" Tm="" type="" amount="55.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-07-01" Tm="" type="" amount="86.22" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-07-01" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-07-01" Tm="21:08" type="Std" amount="12.50" />
+<BASAL Dt="2018-07-01" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-07-01" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-01" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-01" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-07-01" Tm="16:14" type="Std" amount="11.00" />
+<BOLUS Dt="2018-07-01" Tm="14:05" type="Std" amount="8.00" />
+<BASAL Dt="2018-07-01" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-01" Tm="11:14" type="Std" amount="5.00" />
+<BASAL Dt="2018-07-01" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-07-01" Tm="10:22" cbrf="1.00" profile="1" remark="Run" />
+<BASAL Dt="2018-07-01" Tm="10:05" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-07-01" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-07-01" Tm="08:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-07-01" Tm="02:44" type="Std" amount="7.50" />
+<BOLUS Dt="2018-07-01" Tm="02:43" type="Std" amount="11.50" />
+<BASAL Dt="2018-07-01" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-07-01" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-07-01" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-30" Tm="" type="" amount="25.90" remark="Bolus Total"/>
+<BOLUS Dt="2018-06-30" Tm="" type="" amount="53.30" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-06-30" Tm="23:40" cbrf="1.50" profile="1" remark="Run" />
+<BOLUS Dt="2018-06-30" Tm="23:40" type="Std" amount="5.90" />
+<EVENT Dt="2018-06-30" Tm="23:40" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2018-06-30" Tm="23:40" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-06-30" Tm="23:40" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2018-06-30" Tm="23:39" cbrf="1.50" profile="1" remark="Run" />
+<BASAL Dt="2018-06-30" Tm="23:39" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-06-30" Tm="23:39" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2018-06-30" Tm="23:09" cbrf="1.50" profile="1" remark="Run" />
+<BASAL Dt="2018-06-30" Tm="23:09" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-06-30" Tm="23:09" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2018-06-30" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-30" Tm="21:11" cbrf="1.40" profile="1" remark="Run" />
+<BASAL Dt="2018-06-30" Tm="20:54" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-06-30" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-30" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-30" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-30" Tm="14:56" type="Std" amount="20.00" />
+<BASAL Dt="2018-06-30" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-06-30" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-06-30" Tm="10:15" cbrf="1.00" profile="1" remark="Run" />
+<BASAL Dt="2018-06-30" Tm="10:11" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-06-30" Tm="10:11" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-06-30" Tm="10:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-06-30" Tm="09:11" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-06-30" Tm="09:11" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-06-30" Tm="08:32" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:39 h" />
+<BASAL Dt="2018-06-30" Tm="08:32" cbrf="1.10" profile="1" remark="TBR End" />
+<BASAL Dt="2018-06-30" Tm="08:31" cbrf="0.99" profile="1" TBRdec=" 90%" remark="dur 00:01 h" />
+<BASAL Dt="2018-06-30" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-06-30" Tm="02:23" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-06-30" Tm="02:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-06-30" Tm="01:23" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-06-30" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-30" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-29" Tm="" type="" amount="33.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-06-29" Tm="" type="" amount="63.93" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-06-29" Tm="22:34" type="Std" amount="13.00" />
+<BASAL Dt="2018-06-29" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-29" Tm="21:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-29" Tm="19:59" type="Std" amount="5.00" />
+<BASAL Dt="2018-06-29" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-29" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-29" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-29" Tm="14:07" type="Std" amount="10.00" />
+<BASAL Dt="2018-06-29" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-06-29" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-06-29" Tm="10:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-06-29" Tm="09:02" type="Std" amount="5.00" />
+<BASAL Dt="2018-06-29" Tm="08:57" cbrf="1.10" profile="1" remark="Run" />
+<EVENT Dt="2018-06-29" Tm="08:56" shortinfo="13.80 IU" description="prime infusion set" />
+<EVENT Dt="2018-06-29" Tm="08:53" description="cartridge changed" />
+<BASAL Dt="2018-06-29" Tm="08:53" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-06-29" Tm="08:00" cbrf="1.10" profile="1" />
+<EVENT Dt="2018-06-29" Tm="02:21" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2018-06-29" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-29" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-29" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-28" Tm="" type="" amount="40.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-06-28" Tm="" type="" amount="71.00" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-06-28" Tm="22:06" type="Std" amount="7.50" />
+<BASAL Dt="2018-06-28" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-28" Tm="21:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-28" Tm="20:03" type="Std" amount="15.00" />
+<BASAL Dt="2018-06-28" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-28" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-28" Tm="17:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-06-28" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-06-28" Tm="13:49" type="Std" amount="8.50" />
+<BASAL Dt="2018-06-28" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-06-28" Tm="10:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-06-28" Tm="08:37" type="Std" amount="4.50" />
+<BASAL Dt="2018-06-28" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-06-28" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-28" Tm="01:00" cbrf="1.30" profile="1" />
+<BOLUS Dt="2018-06-28" Tm="00:05" type="Std" amount="4.50" />
+<BASAL Dt="2018-06-28" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-27" Tm="" type="" amount="46.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-06-27" Tm="" type="" amount="75.54" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-06-27" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-27" Tm="21:49" type="Std" amount="6.50" />
+<BOLUS Dt="2018-06-27" Tm="21:02" type="Std" amount="13.00" />
+<BASAL Dt="2018-06-27" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-06-27" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-27" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-27" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-27" Tm="14:29" type="Std" amount="4.00" />
+<BOLUS Dt="2018-06-27" Tm="14:02" type="Std" amount="14.50" />
+<BASAL Dt="2018-06-27" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-06-27" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-06-27" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-27" Tm="08:05" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-06-27" Tm="07:47" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-06-27" Tm="07:47" cbrf="1.50" profile="1" remark="TBR End (cancelled)" />
+<BOLUS Dt="2018-06-27" Tm="07:43" type="Std" amount="8.00" />
+<BASAL Dt="2018-06-27" Tm="02:00" cbrf="1.35" profile="1" TBRdec=" 90%" />
+<BASAL Dt="2018-06-27" Tm="01:00" cbrf="1.17" profile="1" TBRdec=" 90%" />
+<BASAL Dt="2018-06-27" Tm="00:40" cbrf="1.35" profile="1" TBRdec=" 90%" remark="dur 07:07 h" />
+<BASAL Dt="2018-06-27" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-26" Tm="" type="" amount="32.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-06-26" Tm="" type="" amount="63.17" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-06-26" Tm="22:25" type="Std" amount="11.00" />
+<BASAL Dt="2018-06-26" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-26" Tm="21:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-26" Tm="20:04" type="Std" amount="6.50" />
+<BASAL Dt="2018-06-26" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-26" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-26" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-26" Tm="16:02" type="Std" amount="5.50" />
+<BASAL Dt="2018-06-26" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-06-26" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-06-26" Tm="10:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-06-26" Tm="09:42" type="Std" amount="2.50" />
+<BASAL Dt="2018-06-26" Tm="08:06" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-06-26" Tm="07:51" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-06-26" Tm="07:32" type="Std" amount="7.00" />
+<BASAL Dt="2018-06-26" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-26" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-26" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-25" Tm="" type="" amount="50.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-06-25" Tm="" type="" amount="80.83" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-06-25" Tm="23:16" type="Std" amount="5.50" />
+<BASAL Dt="2018-06-25" Tm="23:16" cbrf="1.50" profile="1" remark="Run" />
+<BASAL Dt="2018-06-25" Tm="23:16" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-06-25" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-25" Tm="21:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-25" Tm="20:54" type="Std" amount="12.00" />
+<BASAL Dt="2018-06-25" Tm="20:52" cbrf="1.00" profile="1" remark="Run" />
+<BASAL Dt="2018-06-25" Tm="20:34" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-06-25" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-25" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-25" Tm="17:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-06-25" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-06-25" Tm="13:40" type="Std" amount="10.00" />
+<BOLUS Dt="2018-06-25" Tm="12:01" type="Std" amount="8.00" />
+<BASAL Dt="2018-06-25" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-06-25" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-25" Tm="09:01" cbrf="1.10" profile="1" remark="Run" />
+<EVENT Dt="2018-06-25" Tm="09:00" shortinfo="17.80 IU" description="prime infusion set" />
+<EVENT Dt="2018-06-25" Tm="08:57" description="cartridge changed" />
+<BASAL Dt="2018-06-25" Tm="08:57" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-06-25" Tm="08:38" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-06-25" Tm="08:22" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-06-25" Tm="08:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-06-25" Tm="07:46" type="Std" amount="15.00" />
+<EVENT Dt="2018-06-25" Tm="07:45" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2018-06-25" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-25" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-25" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-24" Tm="" type="" amount="66.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-06-24" Tm="" type="" amount="97.00" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-06-24" Tm="23:49" type="Std" amount="5.00" />
+<BASAL Dt="2018-06-24" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-24" Tm="21:23" type="Std" amount="14.00" />
+<BASAL Dt="2018-06-24" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-06-24" Tm="19:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-06-24" Tm="18:34" type="Std" amount="12.00" />
+<BASAL Dt="2018-06-24" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-24" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-24" Tm="14:39" type="Std" amount="9.50" />
+<BASAL Dt="2018-06-24" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-06-24" Tm="12:09" type="Std" amount="5.50" />
+<BASAL Dt="2018-06-24" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-06-24" Tm="10:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-06-24" Tm="08:02" type="Std" amount="6.00" />
+<BASAL Dt="2018-06-24" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-06-24" Tm="02:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-24" Tm="01:36" type="Std" amount="14.00" />
+<BASAL Dt="2018-06-24" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-24" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-23" Tm="" type="" amount="59.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-06-23" Tm="" type="" amount="89.16" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-06-23" Tm="22:50" type="Std" amount="6.50" />
+<BASAL Dt="2018-06-23" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-23" Tm="21:58" type="Std" amount="15.00" />
+<BASAL Dt="2018-06-23" Tm="21:03" cbrf="1.40" profile="1" remark="TBR End" />
+<BASAL Dt="2018-06-23" Tm="21:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-06-23" Tm="20:03" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-06-23" Tm="19:39" cbrf="1.00" profile="1" remark="Run" />
+<BASAL Dt="2018-06-23" Tm="19:20" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-06-23" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-23" Tm="18:00" cbrf="1.30" profile="1" />
+<BOLUS Dt="2018-06-23" Tm="17:25" type="Std" amount="4.00" />
+<BASAL Dt="2018-06-23" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-23" Tm="14:56" type="Std" amount="18.00" />
+<BASAL Dt="2018-06-23" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-06-23" Tm="12:39" type="Std" amount="7.00" />
+<BASAL Dt="2018-06-23" Tm="11:00" cbrf="1.20" profile="1" />
+<BOLUS Dt="2018-06-23" Tm="10:25" type="Std" amount="9.00" />
+<BASAL Dt="2018-06-23" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-23" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-06-23" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-23" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-23" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-22" Tm="" type="" amount="34.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-06-22" Tm="" type="" amount="65.13" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-06-22" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-22" Tm="21:34" type="Std" amount="18.00" />
+<BASAL Dt="2018-06-22" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-06-22" Tm="20:47" cbrf="1.00" profile="1" remark="Run" />
+<BASAL Dt="2018-06-22" Tm="20:28" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-06-22" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-22" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-22" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-22" Tm="14:01" type="Std" amount="10.00" />
+<BASAL Dt="2018-06-22" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-06-22" Tm="12:12" type="Std" amount="2.00" />
+<BASAL Dt="2018-06-22" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-06-22" Tm="10:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-06-22" Tm="08:41" type="Std" amount="2.00" />
+<BASAL Dt="2018-06-22" Tm="08:15" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-06-22" Tm="08:12" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-06-22" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-06-22" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-22" Tm="01:00" cbrf="1.30" profile="1" />
+<BOLUS Dt="2018-06-22" Tm="00:25" type="Std" amount="2.50" />
+<BASAL Dt="2018-06-22" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-21" Tm="" type="" amount="37.40" remark="Bolus Total"/>
+<BOLUS Dt="2018-06-21" Tm="" type="" amount="66.55" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-06-21" Tm="23:08" type="Std" amount="3.00" />
+<BASAL Dt="2018-06-21" Tm="23:02" cbrf="1.50" profile="1" remark="Run" />
+<EVENT Dt="2018-06-21" Tm="23:01" shortinfo="17.10 IU" description="prime infusion set" />
+<EVENT Dt="2018-06-21" Tm="23:00" shortinfo="E11" description="set not primed" />
+<EVENT Dt="2018-06-21" Tm="22:52" description="cartridge changed" />
+<BASAL Dt="2018-06-21" Tm="22:52" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-06-21" Tm="22:37" cbrf="1.50" profile="1" remark="Run" />
+<EVENT Dt="2018-06-21" Tm="22:37" shortinfo="E4" description="occlusion" />
+<EVENT Dt="2018-06-21" Tm="22:37" shortinfo="E4" description="occlusion" />
+<BOLUS Dt="2018-06-21" Tm="22:37" type="Std" amount="5.40" />
+<EVENT Dt="2018-06-21" Tm="22:37" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2018-06-21" Tm="22:37" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-06-21" Tm="22:37" shortinfo="E4" description="occlusion" />
+<BOLUS Dt="2018-06-21" Tm="22:20" type="Std" amount="9.00" />
+<BASAL Dt="2018-06-21" Tm="22:00" cbrf="1.50" profile="1" />
+<EVENT Dt="2018-06-21" Tm="21:24" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2018-06-21" Tm="21:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-21" Tm="19:47" type="Std" amount="10.50" />
+<BASAL Dt="2018-06-21" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-21" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-21" Tm="17:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-06-21" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-06-21" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-06-21" Tm="10:11" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-06-21" Tm="10:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-06-21" Tm="09:11" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BOLUS Dt="2018-06-21" Tm="08:28" type="Std" amount="2.00" />
+<BASAL Dt="2018-06-21" Tm="08:09" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-06-21" Tm="07:47" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-06-21" Tm="07:32" type="Std" amount="7.50" />
+<BASAL Dt="2018-06-21" Tm="06:40" cbrf="1.50" profile="1" remark="Run" />
+<BASAL Dt="2018-06-21" Tm="06:39" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2018-06-21" Tm="06:39" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2018-06-21" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-21" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-21" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-20" Tm="" type="" amount="55.50" remark="Bolus Total"/>
+<BOLUS Dt="2018-06-20" Tm="" type="" amount="86.50" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2018-06-20" Tm="23:39" type="Std" amount="7.00" />
+<BASAL Dt="2018-06-20" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-20" Tm="21:49" type="Std" amount="13.00" />
+<BASAL Dt="2018-06-20" Tm="21:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-20" Tm="20:26" type="Std" amount="9.50" />
+<BASAL Dt="2018-06-20" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-20" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-20" Tm="17:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-06-20" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-06-20" Tm="13:54" type="Std" amount="12.00" />
+<BASAL Dt="2018-06-20" Tm="11:00" cbrf="1.20" profile="1" />
+<BOLUS Dt="2018-06-20" Tm="10:54" type="Std" amount="8.00" />
+<BOLUS Dt="2018-06-20" Tm="10:33" type="Std" amount="6.00" />
+<BASAL Dt="2018-06-20" Tm="10:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-20" Tm="08:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-06-20" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-20" Tm="01:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-20" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-19" Tm="" type="" amount="53.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-06-19" Tm="" type="" amount="79.74" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-06-19" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-19" Tm="21:10" type="Std" amount="16.50" />
+<BASAL Dt="2018-06-19" Tm="21:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-19" Tm="20:05" type="Std" amount="11.00" />
+<BASAL Dt="2018-06-19" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-19" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-19" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-19" Tm="14:34" type="Std" amount="9.50" />
+<BASAL Dt="2018-06-19" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-06-19" Tm="12:05" type="Std" amount="8.00" />
+<BASAL Dt="2018-06-19" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-06-19" Tm="10:16" cbrf="1.00" profile="1" remark="TBR End" />
+<BASAL Dt="2018-06-19" Tm="10:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2018-06-19" Tm="09:16" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BOLUS Dt="2018-06-19" Tm="08:21" type="Std" amount="8.00" />
+<BASAL Dt="2018-06-19" Tm="08:11" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-06-19" Tm="07:47" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-06-19" Tm="06:45" cbrf="1.50" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-06-19" Tm="02:00" cbrf="1.20" profile="1" TBRdec=" 80%" />
+<BASAL Dt="2018-06-19" Tm="01:00" cbrf="1.04" profile="1" TBRdec=" 80%" />
+<BASAL Dt="2018-06-19" Tm="00:45" cbrf="1.20" profile="1" TBRdec=" 80%" remark="dur 06:00 h" />
+<BASAL Dt="2018-06-19" Tm="00:36" cbrf="1.50" profile="1" remark="TBR End" />
+<BASAL Dt="2018-06-19" Tm="00:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BOLUS Dt="2018-06-18" Tm="" type="" amount="65.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-06-18" Tm="" type="" amount="93.37" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-06-18" Tm="23:36" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2018-06-18" Tm="22:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-18" Tm="21:02" type="Std" amount="15.00" />
+<BASAL Dt="2018-06-18" Tm="21:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-18" Tm="19:44" type="Std" amount="7.00" />
+<BASAL Dt="2018-06-18" Tm="19:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-06-18" Tm="18:56" type="Std" amount="10.00" />
+<BASAL Dt="2018-06-18" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-18" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-18" Tm="14:26" type="Std" amount="8.00" />
+<BASAL Dt="2018-06-18" Tm="14:00" cbrf="1.10" profile="1" />
+<BOLUS Dt="2018-06-18" Tm="11:50" type="Std" amount="2.00" />
+<BASAL Dt="2018-06-18" Tm="11:00" cbrf="1.20" profile="1" />
+<BASAL Dt="2018-06-18" Tm="10:00" cbrf="1.00" profile="1" />
+<BOLUS Dt="2018-06-18" Tm="09:46" type="Std" amount="3.00" />
+<BASAL Dt="2018-06-18" Tm="08:47" cbrf="1.10" profile="1" remark="Run" />
+<EVENT Dt="2018-06-18" Tm="08:46" shortinfo="10.60 IU" description="prime infusion set" />
+<EVENT Dt="2018-06-18" Tm="08:43" description="cartridge changed" />
+<BASAL Dt="2018-06-18" Tm="08:42" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2018-06-18" Tm="08:17" cbrf="1.10" profile="1" remark="Run" />
+<BASAL Dt="2018-06-18" Tm="07:52" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2018-06-18" Tm="07:39" type="Std" amount="16.00" />
+<EVENT Dt="2018-06-18" Tm="07:38" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2018-06-18" Tm="07:37" cbrf="1.50" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2018-06-18" Tm="06:39" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:58 h" />
+<BASAL Dt="2018-06-18" Tm="02:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-18" Tm="01:00" cbrf="1.30" profile="1" />
+<BOLUS Dt="2018-06-18" Tm="00:22" type="Std" amount="4.00" />
+<BASAL Dt="2018-06-18" Tm="00:00" cbrf="1.50" profile="1" />
+<BOLUS Dt="2018-06-17" Tm="" type="" amount="13.00" remark="Bolus Total"/>
+<BOLUS Dt="2018-06-17" Tm="" type="" amount="27.12" remark="Bolus+Basal Total"/>
+<BASAL Dt="2018-06-17" Tm="22:00" cbrf="1.50" profile="1" />
+<BASAL Dt="2018-06-17" Tm="21:00" cbrf="1.40" profile="1" />
+<BASAL Dt="2018-06-17" Tm="19:00" cbrf="1.00" profile="1" />
+<BASAL Dt="2018-06-17" Tm="18:00" cbrf="1.30" profile="1" />
+<BASAL Dt="2018-06-17" Tm="17:00" cbrf="1.40" profile="1" />
+<BOLUS Dt="2018-06-17" Tm="16:08" type="Std" amount="13.00" />
+<BASAL Dt="2018-06-17" Tm="14:00" cbrf="1.10" profile="1" />
+<BASAL Dt="2018-06-17" Tm="12:34" cbrf="1.20" profile="1" remark="Run" />
+<BASAL Dt="2018-06-17" Tm="12:16" cbrf="0.00" remark="Stop" />
+</IPDATA>
+<STATISTIC>
+<ST_TIMERANGE Weeks="2" Dt="2018-07-29"/>
+<ST_USETIME_PERCENT Val=""/>
+<ST_BASAL_IU Val=""/>
+<ST_BASAL_PERCENT Val=""/>
+<ST_BOLUSFREQ Val=""/>
+<ST_BOLUS_IU Val=""/>
+<ST_BOLUS_PERCENT Val=""/>
+</STATISTIC>
+<CHECK CRC="B881"/>
+</IMPORT>
